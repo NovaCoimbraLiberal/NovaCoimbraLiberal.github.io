@@ -1,4 +1,4 @@
-# Nova Coimbra Liberal Projeto para o Grupo Coordenador do Núcleo de Coimbra
+# Nova Coimbra Liberal
 ## Projeto para o Grupo Coordenador do Núcleo de Coimbra
 ### Iniciativa Liberal
 
@@ -35,8 +35,4 @@ A Iniciativa Liberal baseia-se em princípios fundamentais que orientam nossa ab
 - **Igualdade Perante a Lei:** Defendemos que a lei deve ser aplicada igualmente a todos os cidadãos, independentemente de sua origem, raça ou status social.
 
 Nossa filosofia é a base de todas as nossas ações e iniciativas.
-
----
-
-Espero que este exemplo atenda às suas necessidades. Lembre-se de personalizar as informações de acordo com o seu grupo e os detalhes do projeto. Você pode criar um repositório no GitHub e fazer o upload deste arquivo Markdown para publicá-lo no GitHub Pages.
 
