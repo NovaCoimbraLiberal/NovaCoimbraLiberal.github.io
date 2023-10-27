@@ -4,4 +4,6 @@ plugins:
 title: Nova Coimbra Liberal
 description: Projeto para o GCL de Coimbra
 
-layout: page
+layout: default
+github_pages:
+  jekyll-mentions: false
