@@ -26,9 +26,9 @@
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
-        <h2 href="https://novacoimbraliberal.github.io/people.html">Pessoas</h2>
-        <h2>Ideias</h2>
-        <h2>Junta-te a nós!</h2>
+        <h2><a href="{{ site.people | relative_url}}">Pessoas</a></h2>
+        <h2><a href="{{ site.ideas | relative_url}}">Ideias</a></h2>
+        <h2><a href="{{ site.join | relative_url}}">Junta-te a nós!</a></h2>
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
