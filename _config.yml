@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Nova Coimbra Liberal
 description: Projeto para o GCL de Coimbra
+base: / 
 logo: /assets/logo.jpg
 people: /people.html
 join: /join.html
