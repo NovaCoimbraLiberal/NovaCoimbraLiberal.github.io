@@ -1,3 +1,3 @@
-# As nossas ideias
+# As nossas ideias 
 
-![teste](assets/1.jpg)
+![teste](assets/ideias.jpg)
