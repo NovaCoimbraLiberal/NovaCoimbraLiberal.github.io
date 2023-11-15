@@ -18,6 +18,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        <a href="{{ relative_url}}" class="btn">Home</a>
         <a href="{{ site.people | relative_url}}" class="btn">Pessoas</a>
         <a href="{{ site.ideas | relative_url}}" class="btn">Ideias</a>
         <a href="{{ site.join | relative_url}}" class="btn">Junta-te a Nós</a>
