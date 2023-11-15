@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Nova Coimbra Liberal
-description: Projeto para o GCL de Coimbra
+description: Projeto para o GCL de Coimbra - Novas Caras,Novos Caminhos
 base: / 
 logo: /assets/logo.jpg
 people: /people.html
