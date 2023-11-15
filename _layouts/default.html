@@ -17,7 +17,7 @@
 
     <header class="page-header" role="banner">
       <img class="logo" src="assets/header-desktop2.png" alt="Iniciativa Liberal" width="778" height="200" />
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="{{ site.base |  relative_url}}" class="btn">Home</a>
       <a href="{{ site.people | relative_url}}" class="btn">Pessoas</a>
